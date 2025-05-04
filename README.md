@@ -2,7 +2,7 @@
 
 **`Back-end Junior`**
 
-Para você que não me conheçe, me chamo Danilo, sou um jovem Dev de 16 anos conhecido como Lprdan_. Sou um novo desenvolvedor Back-end dentro do mercado de trabalho. Adoro aprender tecnologias novas e compartilhar meu conhecimento com amigos.
+Conhecido como Lprdan sou um Dev Back-end Junior aprendendo cada dia mais. 1 ano e meio absorvendo e colhendo dos frutos de aprender cada vez mais.
 
 <p>
     <a href="https://lprdan.netlify.app/">
